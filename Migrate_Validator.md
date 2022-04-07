@@ -1,5 +1,5 @@
 # Migrate Validator
-This manual described the process required for migrating an existing Tendermint Validator<br>
+This manual describes the process required for migrating an existing Tendermint Validator<br>
 from one host to another.<br>
 
 ## Migrate by Mnemonic
